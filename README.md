@@ -20,7 +20,7 @@ python 3 -m http.server
 ````
 se ha levantado un servidor en http://0.0.0.0:8000/circle_amplitude/
 
-## en caso de apache2 antes posisionate en 
+## en caso de apache2 antes posicionate en 
 ````
 cd /var/www/html
 ````
